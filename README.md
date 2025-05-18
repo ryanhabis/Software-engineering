@@ -37,5 +37,3 @@ Here’s a focused breakdown of the topics you mentioned, tailored to your exam 
 ### **Example Exam Question**  
 **Q**: *Explain how modularization improves software maintainability.*  
 **A**: Modularization divides a system into independent modules, each handling a specific task. This reduces complexity, isolates errors, and allows updates to one module without affecting others, speeding up development and debugging.  
-
-Let me know if you’d like deeper dives into specific areas!
